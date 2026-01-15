@@ -3,7 +3,7 @@ Güzellik Salonu CRM Yönetim Sistemi (WinForms)
 Bu proje, bir güzellik salonu / beauty center için geliştirilmiş;
 müşteri yönetimi, personel yönetimi, hizmet tanımlama, talep & işlem takibi ve raporlama süreçlerini dijital ortamda yönetmeyi amaçlayan bir Windows Forms masaüstü uygulamasıdır.
 
-Proje, katmanlı mimari (N-Tier Architecture) kullanılarak geliştirilmiş olup; sürdürülebilir, genişletilebilir ve temiz bir kod yapısı sunmaktadır.
+Proje, n katmanlı mimari (N-Tier Architecture) kullanılarak geliştirilmiş olup; sürdürülebilir, genişletilebilir ve temiz bir kod yapısı sunmaktadır.
 
 📌 Proje Özellikleri
 🔐 Kullanıcı Girişi ve Yetkilendirme
