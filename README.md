@@ -188,4 +188,4 @@ Bölüm: Yönetim Bilişim Sistemleri
 
 🎥 Tanıtım Videosu
 
-👉 https://youtu.be/mpp54pcjbmI
+👉https://youtu.be/mpp54pcjbmI?si=EBoXrc1DDN98H6B8
